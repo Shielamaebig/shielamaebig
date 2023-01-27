@@ -20,10 +20,10 @@
 
 <p>
 <div align="center">
-
-  </div>
-</p>
-
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shielamaebig&show_icons=true&theme=transparent)
  
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shielamaebig)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</p>
+
+
