@@ -17,3 +17,10 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   </div>
 </p>
+
+<p>
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shielamaebig&show_icons=true&theme=transparent)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shielamaebig)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</p>
