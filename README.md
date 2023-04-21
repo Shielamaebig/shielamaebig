@@ -14,11 +14,5 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 </p>
 
-<p>
-  
- ![Anurag's GitHub stats](https://github-readme-stats-xeyy.vercel.app/api?username=shielamaebig&show_icons=true&theme=synthwave)
- 
-  [![Top Langs](https://github-readme-stats-xeyy.vercel.app/api/top-langs/?username=shielamaebig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 
